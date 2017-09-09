@@ -1,0 +1,6 @@
+.translate-x-hover {
+  transition: transform 0.3s !important;
+  &:hover {
+    transform: translateX(8px);
+  }
+}

@@ -1,0 +1,14 @@
+.btn-md {
+  color: #ffffff;
+  background-color: $active-color;
+  border-color: $active-color;
+  text-transform: uppercase;
+  border-radius: 0 !important;
+  font-size: 13px;
+  padding: 10px 20px;
+  letter-spacing: 2px;
+}
+
+.btn-md:hover {
+  color: #ffffff;
+}
